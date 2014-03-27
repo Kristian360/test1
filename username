@@ -3,6 +3,7 @@
 var name;
 name=prompt ("please enter your first name","kristian");
 	alert("hello, "+name);
-	alert("Hello, I am Connie");
+	
+	alert(new Date().toString() + " Jingxian Huang visited this page" );
 </script>
 </html>
