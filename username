@@ -1,7 +1,7 @@
 <html>
 <script type="text/javascript">
 var name;
-name=prompt ("please enter your first name","");
+name=prompt ("please enter your first name","Daniel,");
 	alert("hello, "+name);
 </script>
 </html>
