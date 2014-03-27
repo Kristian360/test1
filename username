@@ -3,5 +3,6 @@
 var name;
 name=prompt ("please enter your first name","kristian");
 	alert("hello, "+name);
+	alert("Hello, I am Connie");
 </script>
 </html>
